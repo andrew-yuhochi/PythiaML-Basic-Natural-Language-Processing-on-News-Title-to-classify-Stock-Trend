@@ -6,6 +6,7 @@ A series of mini projects are performed for testing some hypothesis and thought.
 
 # Directory:
 1. Basic Natural Language Processing on News Title to classify Stock Trend (you are here!)
+2. First attempt: Forecast the stock signal by NLP-based features (https://github.com/andrew-yuhochi/First-attempt-Forecast-the-stock-signal-by-NLP-based-features/tree/main)
 
 
 ## 1: Basic Natural Language Processing on News Title to classify Stock Trend
