@@ -1,14 +1,14 @@
-# AlgoTrading_NLP_based
-This project aims at constructing a portfolio using machine learning approaches for making dynamic investment decision. Serval perspectives and dimension are used as predictors based on both financial, economic and statistical concept to build a comprehensive model. These includes but not limited to market data and technical indicators, company's financial fundamentals, regional economic status and its expectation, and effect on financial news. 
+# AlgoTrading_NLP_based_portfolios
+This is a project scheme aiming at constructing a portfolio using machine learning approaches for making dynamic investment decision. Serval perspectives and dimension are used as predictors based on both financial, economic and statistical concept to build a comprehensive model. These includes but not limited to market data and technical indicators, company's financial fundamentals, regional economic status and its expectation, and effect on financial news. 
 
 A series of mini projects are performed for testing some hypothesis and thought. Important finding will be released and updated regularly. 
 
 
 # Directory:
-1. Basic Natural Language Processing on News Title to predict Stock Trend
+1. Basic Natural Language Processing on News Title to classify Stock Trend
 
 
-## 1: Basic Natural Language Processing on News Title to predict Stock Trend
+## 1: Basic Natural Language Processing on News Title to classify Stock Trend
 #### Main question: 
 Dose news a "real" indicator for security market? Is there real relation between financial news and market movement?
 
