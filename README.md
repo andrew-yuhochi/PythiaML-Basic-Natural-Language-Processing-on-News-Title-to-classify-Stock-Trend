@@ -1,17 +1,13 @@
-# AlgoTrading_NLP_based_portfolios
-This is a project scheme aiming at constructing a portfolio using machine learning approaches for making dynamic investment decision. Serval perspectives and dimension are used as predictors based on both financial, economic and statistical concept to build a comprehensive model. These includes but not limited to market data and technical indicators, company's financial fundamentals, regional economic status and its expectation, and effect on financial news. 
-
-A series of mini projects are performed for testing some hypothesis and thought. Important finding will be released and updated regularly. 
-
+# PythiaML 
+PythiaML is a project scheme aiming at constructing a dynamic portfolio using Machine learning. The sophisticated final models are expected to include features from various sources, including but not limited to: market and technical indicators, company-wide financial ratios, regional economic statistics, and investor’s sentiment toward markets.
 
 # Directory:
 1. Basic Natural Language Processing on News Title to classify Stock Trend (you are here!)
 2. First attempt: Forecast the stock signal by NLP-based features (https://github.com/andrew-yuhochi/First-attempt-Forecast-the-stock-signal-by-NLP-based-features/tree/main)
+3. Sequential Models on embedded sentences for Financial Sentiment Analysis (https://github.com/andrew-yuhochi/PythiaML-Sequential-Models-on-embedded-sentences-for-Financial-Sentiment-Analysis)
 
 
 ## 1: Basic Natural Language Processing on News Title to classify Stock Trend
-#### Main question: 
-Dose news a "real" indicator for security market? Is there real relation between financial news and market movement?
 
 #### Date: 
 30 Oct 2020 (HKT/ GMT +8)
@@ -33,9 +29,6 @@ The 1 gram, 2 grams and 3 grams models have testing performance of 57.3, 68.2, 6
 News: "Daily Financial News for 6000+ Stocks", the data was scraped from benzinga.com. Big Thanks to bot_developer. The news articles are the property of Benzinga. https://www.kaggle.com/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests 
 
 Price: Yahoo finance for sp500
-
-#### License: 
-CC0: Public Domain
 
 #### Last Update: 
 15 Jun 2021
